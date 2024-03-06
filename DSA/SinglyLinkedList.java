@@ -64,5 +64,6 @@ public class SinglyLinkedList {
         linkedList.delete(3);
         System.out.println("Nodes after deletion");
         linkedList.showElements();
+
     }
 }
